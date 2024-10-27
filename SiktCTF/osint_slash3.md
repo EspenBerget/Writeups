@@ -1,7 +1,7 @@
 # Skråstrek 3 / Slash 3
 
-This one is pretty interesting. In was trivial for the once with the knowhow, but lacking that this one was an
-adventure in redundancy and a single minded procue of false conviction.
+This one is pretty interesting. In was trivial for the once with the knowhow, but lacking that, this one was an
+adventure in redundancy and a single minded pursue of false convictions.
 
 The clue in this task says:
 "This challenge is in norwegian for some extra spice 😉 Denne hytta har jeg sett før, men jeg vet ikke hvor. Kan du finne ut hva hytta heter?"
@@ -9,8 +9,8 @@ The clue in this task says:
 Translated it says:
 "This challenge is in norwegian for some extra spice 😉 I've seen this cabin before, but cant remember where. Can you find it?"
 
-Now, the english norwegian mix and the "extra spice" clue convinsed me this was a reference to "Halvor Bakke", a tv presenter
-whos program revolves around styling and renovating cabins. He often uses phrases like "extra spice" in english,
+Now, the english norwegian mix and the "extra spice" clue convinsed me this was a reference to "Halvor Bakke", a TV presenter
+whos program revolves around styling and renovating cabins. He often uses phrases similar to "extra spice" in english,
 so there you go, must be it right?!
 
 Well after finding a website containing most of the cabins from the show, looking at those who can have anything to do with

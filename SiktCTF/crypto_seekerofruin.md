@@ -20,7 +20,7 @@ the words into symbols, where each symbols is composed of a consonant part and a
 structure where the inner part is consonant and the outer part is vowels. The symbols are read from inner to outer unless
 there is an o at the bottom. A word is formed by drawing a line between the symbols of the word.
 
-A simble bit of searchin lead me to a translate page, and the rest was pretty streight forward, minus some awkward
+A simple bit of web searching lead me to a translate page, and the rest was pretty streight forward, minus some awkward
 pronounciation out loud to ensure the translate sounded right and figuring out the word. Luckily I was alone xD.
 
 After sounding out the word I was left with the phrase:
@@ -32,6 +32,6 @@ This was easy to translate given that the phrase is very intune with all the oth
 
 This was the flag, no SiktCTF part this time.
 
-# resources
+#### Resources
 https://steamuserimages-a.akamaihd.net/ugc/2527155798048137885/458A241CBEDAD1B7DE658B6F499E1F388605A1CF/
 https://www.reddit.com/r/TunicGame/comments/turute/seeker_of_ruin_leave_here/

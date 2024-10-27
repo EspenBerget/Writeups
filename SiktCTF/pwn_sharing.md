@@ -1,4 +1,4 @@
-# Sharing WriteUp
+# Sharing Writeup
 
 I started by using netcat to connect to the service.
 ```bash

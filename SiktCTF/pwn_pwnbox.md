@@ -1,4 +1,4 @@
-# Pwnbox WriteUp
+# Pwnbox Writeup
 A classical pwn challenge. This one involved scanning, web traversary, leaked passwords, and git.
 
 Start of by finding the open ports. This is easy with nmap `nmap -T2 -p7000-8000 challenges.ctf.sikt.no` just to be nice I
